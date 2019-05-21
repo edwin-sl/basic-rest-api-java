@@ -10,9 +10,9 @@ import javax.jms.JMSException;
  * Created by edwin on May, 2019
  */
 public class Server {
-    private final String url = "ssl://b-dc9b88a7-ea13-493f-a786-0951b6f4e2d9-1.mq.us-east-1.amazonaws.com:61617";
+    private final String url = "ssl://b-c9dd860c-f203-4abd-a2e1-f2c73758d953-1.mq.us-east-1.amazonaws.com:61617";
     private final String username = "user";
-    private final String password = "password";
+    private final String password = "Password123456789";
 
     private final ActiveMQConnectionFactory connectionFactory;
     private final PooledConnectionFactory pooledConnectionFactory;

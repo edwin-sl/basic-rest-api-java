@@ -1,8 +1,5 @@
 package com.clase.miapi.mq;
 
-import org.apache.activemq.ActiveMQConnectionFactory;
-import org.apache.activemq.jms.pool.PooledConnectionFactory;
-
 import javax.jms.*;
 
 /**
